@@ -1,0 +1,25 @@
+
+html, body
+{
+
+border: 0px;
+padding: 0px;
+margin: 0px;
+background-color: #000000;
+}
+
+
+
+.wrapper{
+border: 0px;
+padding: 0px;
+margin: 0px;
+background-color: #000000;
+}
+
+.header {
+border: 0px;
+width: 700px;
+height: 25px;	
+background-color: #000;
+}
